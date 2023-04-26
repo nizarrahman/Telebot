@@ -3,7 +3,7 @@ exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https
 exports.first_chat = (botname, pushname) => {
     return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik /menu untuk mengetahui lebih lanjut tentang cara menggunakan bot ini.
 
-Bergabunglah dengan [channel saya](https://t.me/zeeone_ofc) untuk mendapatkan informasi tentang semua pembaruan terbaru.
+jika menemukan bug harap lapor (https://t.me/nizarr90) untuk memperbaiki bug tersebut.
 
 Kirim perintah /privacy untuk melihat syarat dan ketentuan penggunaan bot.
 `
