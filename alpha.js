@@ -265,8 +265,8 @@ async function startalpha() {
             reply_markup: {
                 inline_keyboard: [
                     [{
-                        text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        text: 'Store',
+                        url: "https://store.nizardev.site"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
@@ -284,8 +284,8 @@ async function startalpha() {
             reply_markup: {
                 inline_keyboard: [
                     [{
-                        text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        text: 'Store',
+                        url: "https://store.nizardev.site"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
